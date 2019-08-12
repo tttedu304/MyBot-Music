@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/tttedu304/mybot-music/issues"
   },
-  "homepage": "https://github.com/tttedu304/mybot-music#readme"
+  "homepage": "https://github.com/tttedu304/mybot-music#readme",
+  "dependencies": {
+    "prettier": "^1.18.2"
+  }
 }
