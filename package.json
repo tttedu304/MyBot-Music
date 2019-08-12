@@ -1,0 +1,29 @@
+{
+  "name": "mybot-music",
+  "version": "0.0.1",
+  "description": "NPM de música para bots de Discord",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tttedu304/mybot-music.git"
+  },
+  "keywords": [
+    "mybot",
+    "music",
+    "discord",
+    "bot",
+    "discord-music",
+    "music-discord",
+    "mybot-music",
+    "music-mybot"
+  ],
+  "author": "tttedu304",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tttedu304/mybot-music/issues"
+  },
+  "homepage": "https://github.com/tttedu304/mybot-music#readme"
+}
